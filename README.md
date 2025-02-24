@@ -18,7 +18,7 @@ After creating a new database, you will need to set network access to allow anyw
 
 ## Back-End Deployment with Heroku
 
-You can follow the same steps as outlined [in the MEN Stack Deployment Guide](https://github.com/SEB-1-Bahrain/men-stack-deployment-guide).
+You can follow the same steps as outlined [in the MEN Stack Deployment Guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/men-stack-deployment/).
 
 Note that this will only be deploying your Express Back-End. 
 
